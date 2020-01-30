@@ -1,0 +1,28 @@
+{
+  "public": {
+    "author": "evan GmbH",
+    "dapp": {
+      "dependencies": {},
+      "entrypoint": "microfe.meetup.js",
+      "files": [
+        "microfe.meetup.js"
+      ],
+      "origin": "QmUYhpgmWuSVofUSaUY6BTdWi4j9MSs8BkdM8Y4YEEJctJ",
+      "primaryColor": "#5170af",
+      "secondaryColor": "#dfeaff",
+      "type": "dapp"
+    },
+    "dbcpVersion": 2,
+    "description": "Evan introduction and help information.",
+    "name": "microfe.meetup",
+    "tags": [
+      "dapp",
+      "evan",
+      "library"
+    ],
+    "version": "0.0.1",
+    "versions": {
+      "0.0.1": "QmbxT1buve31fFTVujrjbQdNJbBbTSnwfvZ9A5oVSxQBVK"
+    }
+  }
+}
