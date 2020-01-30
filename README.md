@@ -1,9 +1,6 @@
 # Vue Meetup Dresden - 29.01.2020
 
-Small project for testing small dapp microfrontends on the evan.network. The corresponding presentation can be found here:
-
-- [microfrontend in general]()
-- [dapps on evan.network]()
+Small project for testing small dapp microfrontends on the evan.network. The corresponding presentation can be found here: https://evanpresentations.web.app/evan-micro-frontends.html#/
 
 ## How to use
 Have a look at the `./dapps/microfe.meetup` and the included files. Replace the content of the original `dbcp.json` and `src/index.ts` files with the prepared test files (`dbcp${X}` / `src/index${X}`).
